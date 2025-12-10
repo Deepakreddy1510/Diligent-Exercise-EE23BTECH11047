@@ -13,7 +13,7 @@ This repo demonstrates a clean, reproducible workflow that mirrors a real analyt
 
 ##  Repository Structure
 ```
-├── generate_data.py # Python script to generates 5 CSV files
+├── generate_data.py # Python script which generates 5 CSV files
 ├── ingest_sqlite.py # loads CSVs into a SQLite DB (ecom.db)
 ├── queries.sql # SQL queries performing multi-table analytics
 │
