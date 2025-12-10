@@ -1,6 +1,6 @@
 # Diligent – E-Commerce Synthetic Data & Analytics Exercise  
 This repository contains my solution for the **Diligent Cursor (A-SDLC) exercise**.  
-The goal was to use AI-assisted development (Cursor IDE / prompts) to:
+The goal was to use AI-assisted development to:
 
 1. Generate synthetic e-commerce data (≈5 files)
 2. Ingest the generated CSV files into a SQLite database
